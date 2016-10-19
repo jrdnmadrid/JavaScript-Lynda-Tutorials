@@ -11,14 +11,14 @@
 '<a href="">';
 '<a href="http://example.com">';
 
-"This is Joe's favorite string"
-"This is Joe's "favorite" string"
+"This is Joe's favorite string";
+"This is Joe's "favorite" string";
 //we need to use escaping in order for the above code to work.
-"This is Joe's \"favorite\" string"
+"This is Joe's \"favorite\" string";
 
 var myString = "This is my string. Leave it alone"; 
 //We created a string and then used additional information (length) in order to discern more information about the string. 
-myString.length
+myString.length;
 
 //Now we are going to create an uppercase function for the variable, below. 
 

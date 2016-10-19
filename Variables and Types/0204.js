@@ -1,14 +1,14 @@
 ﻿//This is the "Booleans and the quest for truth" video tutorial from the "Introducing the JavaScript Language" series. 
 
-true
-false
+true;
+false;
 //A boolean is true or false, needs to be all lower-case
 
 var myLocation = 'Graz', myOtherLocation = 'Los Angeles';
-myLocation === myOtherLocation
+myLocation === myOtherLocation;
 //Three equal signs compares two variables. These two are not equal
 
-myOtherLocation = 'Graz'
+myOtherLocation = 'Graz';
 //Now it would be true if we compared them because we've defined Graz as both. 
 
 // More info:

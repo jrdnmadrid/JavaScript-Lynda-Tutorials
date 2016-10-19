@@ -1,12 +1,12 @@
 ﻿//This is the "Numbers" video tutorial from the "Introducing the JavaScript Language" series. 
 
-12
-12.0
-12.82358972893527582
-- 12
-Infinity
-- Infinity
-NaN
+12;
+12.0;
+12.82358972893527582;
+- 12;
+Infinity;
+- Infinity;
+NaN;
 //NaN stands for Not a Number. 
 
 Math;

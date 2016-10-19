@@ -7,7 +7,7 @@ x;
 var whereAmI = "Graz, Austria";
 whereAmI;
 
-x = 45
+x = 45;
 x;
 //Once you declar a var, you do not need to redeclare it to change it. X has been changed to 45 above. 
 
