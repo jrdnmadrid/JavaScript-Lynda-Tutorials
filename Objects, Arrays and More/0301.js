@@ -1,8 +1,8 @@
 ﻿//This is the "Objects" video tutorial from the "Introducing the JavaScript Language" series. 
 
-12
-"strings"
-true
+12;
+"strings";
+true;
 //we've talked about numbers, strings and booleans
 
 { };

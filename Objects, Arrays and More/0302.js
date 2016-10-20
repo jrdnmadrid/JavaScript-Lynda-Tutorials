@@ -10,7 +10,7 @@ var animal = {
     'deadly': false
 };
 
-animal.quote; //this works
+animal.quote; //this works and returns Nevermore.
 animal.'quote'; //this does not work, do not use quotes with above style. 
 animal["quote"]; //same thing as above animal.quote, but using a different syntax that uses quotes. 
 
